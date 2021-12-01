@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android-work/CH06-Object/0600_RelativeLayout/src/main/res/layout/m0600.xml" value="0.3177083333333333" />
+        <entry key="..\:/android-work/CH06-Object/0601_RelativeLayout_Game/src/main/res/layout/m0601.xml" value="0.3115423901940756" />
+        <entry key="..\:/android-work/CH06-Object/0601a_RelativeLayout_Game/src/main/res/layout/m0601.xml" value="0.3177083333333333" />
+        <entry key="..\:/android-work/CH06-Object/0602_ImageButton/src/main/res/layout/m0601.xml" value="0.3177083333333333" />
+        <entry key="..\:/android-work/CH06-Object/0602_ImageButton/src/main/res/layout/m0602.xml" value="0.3177083333333333" />
+        <entry key="..\:/android-work/CH06-Object/0602_ImageButton/src/main/res/mipmap-anydpi-v26/ic_launcher_m0602.xml" value="0.18645833333333334" />
+        <entry key="..\:/android-work/CH06-Object/0607_IntentAll/src/main/res/layout/spinner_item.xml" value="0.4" />
+        <entry key="..\:/android-work/CH06-Object/0608_calculator/src/main/res/layout/m0608.xml" value="0.20989583333333334" />
+        <entry key="..\:/android-work/CH06-Object/0608a_getIdentifier/src/main/res/layout/m0608.xml" value="0.264" />
+        <entry key="..\:/android-work/CH06-Object/0608b_ScrollView/src/main/res/layout/m0608.xml" value="0.20989583333333334" />
+        <entry key="..\:/android-work/CH06-Object/0609_IndexMicro/src/main/res/layout/m05.xml" value="0.20989583333333334" />
+        <entry key="..\:/android-work/CH06-Object/0609_IndexMicro/src/main/res/layout/m05_la1.xml" value="0.20989583333333334" />
+        <entry key="..\:/android-work/CH06-Object/0609_IndexMicro/src/main/res/layout/mainmenu.xml" value="0.20989583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
